@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gradient Background</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(to down, rgb(234,241,196), rgb(248,136,194); /* Change the colors as per your preference */
+            font-family: 'Arial', sans-serif;
+            color: #fff; /* Change the text color to contrast with the background */
+        }
+
+        h1 {
+            font-size: 3em;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>CS - 1130 INTRODUCTION TO COMPUTING</h1>
+        <p>by Trixia Simone Maligad.</p>
+    </div>
+</body>
+</html>
